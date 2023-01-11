@@ -9,6 +9,7 @@ The application will ask you to confirm whether or not you want to tag those sel
 ![img2](https://user-images.githubusercontent.com/51735830/211785186-156827e4-a7ab-439d-a2ef-9e7400e88142.png)
 
 The application will either show you a 100% success for tagged files:
+
 ![img3](https://user-images.githubusercontent.com/51735830/211785288-ac359fa6-957d-4900-8bf3-4a1184cae796.png)
 
 or will show an error, the amount of successful and unsuccessful tags, and a list of the names of the songs that were unable to be tagged:
