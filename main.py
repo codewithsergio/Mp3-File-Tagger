@@ -59,8 +59,8 @@ class MainWindow(QtWidgets.QMainWindow):
         if res == q.No:
             return
 
-        client_id = 'b24805fd018e49baaa264c4ec5a3e589'
-        client_secret = '28f8442ab43d4bcfb3be6cb95878effd'
+        client_id = 'CLIENT_ID_HERE'
+        client_secret = 'SLIENT_SECRET_HERE'
 
         # Obtain an access token
         token_response = requests.post('https://accounts.spotify.com/api/token',
